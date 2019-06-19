@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1851171.chunk.css",
-    "main.js": "/static/js/main.ed26b783.chunk.js",
-    "main.js.map": "/static/js/main.ed26b783.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.371b2e1f.chunk.css": "/static/css/2.371b2e1f.chunk.css",
-    "static/js/2.58309b54.chunk.js": "/static/js/2.58309b54.chunk.js",
-    "static/js/2.58309b54.chunk.js.map": "/static/js/2.58309b54.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d6eb92eef7f247572c62574cae8bbe75.js": "/precache-manifest.d6eb92eef7f247572c62574cae8bbe75.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.371b2e1f.chunk.css.map": "/static/css/2.371b2e1f.chunk.css.map",
-    "static/css/main.d1851171.chunk.css.map": "/static/css/main.d1851171.chunk.css.map",
-    "static/media/Profile.jpg": "/static/media/Profile.2e2cafe3.jpg"
+    "main.css": "/deploy/static/css/main.d1851171.chunk.css",
+    "main.js": "/deploy/static/js/main.d880fa0a.chunk.js",
+    "main.js.map": "/deploy/static/js/main.d880fa0a.chunk.js.map",
+    "runtime~main.js": "/deploy/static/js/runtime~main.9c98c2a1.js",
+    "runtime~main.js.map": "/deploy/static/js/runtime~main.9c98c2a1.js.map",
+    "static/css/2.371b2e1f.chunk.css": "/deploy/static/css/2.371b2e1f.chunk.css",
+    "static/js/2.5726d529.chunk.js": "/deploy/static/js/2.5726d529.chunk.js",
+    "static/js/2.5726d529.chunk.js.map": "/deploy/static/js/2.5726d529.chunk.js.map",
+    "index.html": "/deploy/index.html",
+    "precache-manifest.17c909c5b727ffbae45326ac8fb163b6.js": "/deploy/precache-manifest.17c909c5b727ffbae45326ac8fb163b6.js",
+    "service-worker.js": "/deploy/service-worker.js",
+    "static/css/2.371b2e1f.chunk.css.map": "/deploy/static/css/2.371b2e1f.chunk.css.map",
+    "static/css/main.d1851171.chunk.css.map": "/deploy/static/css/main.d1851171.chunk.css.map",
+    "static/media/Profile.jpg": "/deploy/static/media/Profile.2e2cafe3.jpg"
   }
 }
